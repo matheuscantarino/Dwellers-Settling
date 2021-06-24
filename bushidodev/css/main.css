@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'maingimperial';
+	src: url(maingimperial.TTF)
+}
+p{
+     font-family: maingimperial;
+}
